@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array
   cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
-  
+  cute_dogs.first("wow")
 end
 
 def retrieve_last_element_from_array
