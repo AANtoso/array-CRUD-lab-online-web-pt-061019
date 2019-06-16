@@ -26,7 +26,7 @@ def remove_element_from_start_of_array(array)
   wow_dog = cute_dogs.shift
 end
 
-def retrieve_element_from_index(array, element)
+def retrieve_element_from_index(array, 2)
   cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
   2 = "am"
 end
