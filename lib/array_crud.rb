@@ -31,7 +31,7 @@ def retrieve_element_from_index(array, number)
   cute_dogs.index(2)
 end
 
-def retrieve_first_element_from_array(array, element)
+def retrieve_first_element_from_array(array)
   cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
   cute_dogs.first
 end
